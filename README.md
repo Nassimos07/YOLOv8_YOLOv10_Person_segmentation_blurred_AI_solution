@@ -1,4 +1,4 @@
-![logo-OYJ34ERC](https://github.com/user-attachments/assets/43f4fcf7-5f29-4623-859d-3f5f27b002ce)# 🚀 𝘽𝙡𝙪𝙧𝙂𝙪𝙖𝙧𝙙: 𝘼𝙄 𝙏𝙤𝙤𝙡 𝙛𝙤𝙧 𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙜𝙚𝙣𝙩 𝙍𝙚𝙜𝙞𝙤𝙣 𝙤𝙛 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩 𝙋𝙧𝙤𝙩𝙚𝙘𝙩𝙞𝙤𝙣
+# 🚀 𝘽𝙡𝙪𝙧𝙂𝙪𝙖𝙧𝙙: 𝘼𝙄 𝙏𝙤𝙤𝙡 𝙛𝙤𝙧 𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙜𝙚𝙣𝙩 𝙍𝙚𝙜𝙞𝙤𝙣 𝙤𝙛 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩 𝙋𝙧𝙤𝙩𝙚𝙘𝙩𝙞𝙤𝙣
 
 
 In today's digital age, protecting privacy and complying with copyright policies in visual content is more important than ever. That's why I've developed an AI-powered tool designed to automatically blur non-essential regions in images and videos, ensuring that only the person of interest remains clear.
